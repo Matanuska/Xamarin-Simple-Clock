@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin Simple Clock.Android", "Xamarin Simple Clock\Xamarin Simple Clock.Android\Xamarin Simple Clock.Android.csproj", "{3D367584-6C47-4F01-A5F7-2701639A1C0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin Simple Clock", "Xamarin Simple Clock\Xamarin Simple Clock\Xamarin Simple Clock.csproj", "{6090C87C-B678-4D10-BB91-5AA88692C6C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D367584-6C47-4F01-A5F7-2701639A1C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D367584-6C47-4F01-A5F7-2701639A1C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D367584-6C47-4F01-A5F7-2701639A1C0E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3D367584-6C47-4F01-A5F7-2701639A1C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D367584-6C47-4F01-A5F7-2701639A1C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D367584-6C47-4F01-A5F7-2701639A1C0E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6090C87C-B678-4D10-BB91-5AA88692C6C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6090C87C-B678-4D10-BB91-5AA88692C6C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6090C87C-B678-4D10-BB91-5AA88692C6C5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6090C87C-B678-4D10-BB91-5AA88692C6C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6090C87C-B678-4D10-BB91-5AA88692C6C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6090C87C-B678-4D10-BB91-5AA88692C6C5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79A3861B-40BB-4748-B892-E7A90473EA77}
+	EndGlobalSection
+EndGlobal
